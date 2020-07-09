@@ -10,3 +10,6 @@ else user_input>30
 end
 
 puts "Your age is #{user_input}"
+
+
+3.times puts "Hullo Whorld"
