@@ -1,6 +1,3 @@
-def restaurant
-  restaurant_name = "Guy's American Kitchen"
-  cuisine = "American"
-  motto = "Welcome to flavor town"
+def print_name
+  puts "Guy Fieri"
 end
- puts {#restaurant}
