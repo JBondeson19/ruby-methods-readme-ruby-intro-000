@@ -3,3 +3,5 @@ def restaurant
   cuisine = "American"
   motto = "Welcome to flavor town"
 end
+ puts {#restaurant}
+ 
