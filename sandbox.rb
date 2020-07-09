@@ -1,3 +1,4 @@
 
 
-3.times puts "Hullo Whorld"
+3.times {print "Hullo Whorld"}
+
