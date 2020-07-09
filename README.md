@@ -284,3 +284,5 @@ rubyists will often refer to it as `#greeting`. This is so that other rubyists
 can instantly recognize it as a method, as opposed to a variable or a bareword
 or a class.  But remember that when you write it in your code, it should be
 `greeting` and not `#greeting`.
+
+3.times puts "Hullo Whorld"
