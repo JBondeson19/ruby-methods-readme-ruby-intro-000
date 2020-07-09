@@ -4,4 +4,3 @@ def restaurant
   motto = "Welcome to flavor town"
 end
  puts {#restaurant}
- 
